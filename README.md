@@ -1,5 +1,7 @@
 # XAI_final_project  Credit Risk Explainability: End-to-End Analysis
 
+# [Watch the Video on YouTube](https://youtu.be/Jb5HeNL_hYQ)
+
 ## Overview  
 This project develops a credit risk prediction and explainability system using the HELOC dataset.  
 It combines machine learning, interpretability, and business optimization to assess borrower risk while maintaining transparency and fairness.  
